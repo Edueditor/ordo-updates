@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-10",
+  "notes": [
+    "Primeira versão: Coletar (pastas organizadas, com ou sem brutos, projeto apontando para as cópias) e Organizar (bins por tipo, com Desfazer)",
+    "Limpar cache seguro: nunca toca no que está no projeto aberto"
+  ],
+  "url": "https://github.com/Edueditor/ordo-updates/releases/latest/download/Ordo_completo.zip",
+  "page": "https://github.com/Edueditor/ordo-updates"
+}
